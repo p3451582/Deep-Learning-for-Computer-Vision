@@ -1,7 +1,7 @@
 import tensorflow as tf
 import os
 
-work_dir = ''
+work_dir = 'ㅁㄴㅇㄻㄴㅇ'
 
 
 image_height, image_width = 150, 150
